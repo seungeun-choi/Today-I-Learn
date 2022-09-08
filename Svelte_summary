@@ -3,6 +3,7 @@
 #Svelte_review_01
 Making button component is easy. Button can be mad in two ways. Using <button> </button> or <div> </div>.
 First case can be written like below,
+
 ```svelte
 <button>
   Clicked {count} {count ===1? 'time' : 'times'}
